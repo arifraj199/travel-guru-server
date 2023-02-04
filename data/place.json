@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Sundarban",
+        "description":"Sundarban is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "picture":"https://i.ibb.co/WvK9nkb/sundorbon-11zon.jpg"
+    },
+    {
+        "id":2,
+        "name":"Cox's Bazar",
+        "description":"Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "picture":"https://i.ibb.co/X2pFhNr/Rectangle-1-11zon.jpg"
+    },
+    {
+        "id":3,
+        "name":"Sreemangal",
+        "description":"Sreemangal is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "picture":"https://i.ibb.co/Yj5mCy2/Sreemongol-11zon.jpg"
+    }
+]
